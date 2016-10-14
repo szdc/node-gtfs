@@ -31,8 +31,10 @@
     "Heath Shurtleff"
   ],
   "dependencies": {
-    "async": "2.0.1",
+    "async": "^2.0.1",
+    "bson": "^0.5.5",
     "csv": "1.1.0",
+    "event-stream": "^3.3.4",
     "lodash": "4.16.2",
     "mkdirp": "0.5.1",
     "moment": "2.15.1",

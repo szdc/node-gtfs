@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const Stop = mongoose.model('Stop', new mongoose.Schema({

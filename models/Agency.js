@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const Agency = mongoose.model('Agency', new mongoose.Schema({

@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const CalendarDate = mongoose.model('CalendarDate', new mongoose.Schema({

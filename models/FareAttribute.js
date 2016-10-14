@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const FareAttribute = mongoose.model('FareAttribute', new mongoose.Schema({

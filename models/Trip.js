@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const Trip = mongoose.model('Trip', new mongoose.Schema({

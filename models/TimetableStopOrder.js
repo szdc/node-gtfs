@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const TimetableStopOrder = mongoose.model('TimetableStopOrder', new mongoose.Schema({

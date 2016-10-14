@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const Frequencies = mongoose.model('Frequencies', new mongoose.Schema({

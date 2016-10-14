@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const Timetable = mongoose.model('Timetable', new mongoose.Schema({

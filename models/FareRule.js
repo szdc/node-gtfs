@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const FareRule = mongoose.model('FareRule', new mongoose.Schema({

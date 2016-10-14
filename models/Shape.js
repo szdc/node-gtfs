@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const Shape = mongoose.model('Shape', new mongoose.Schema({

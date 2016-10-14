@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const Route = mongoose.model('Route', new mongoose.Schema({

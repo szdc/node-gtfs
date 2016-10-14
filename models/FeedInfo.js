@@ -1,3 +1,5 @@
+'use strict';
+
 const mongoose = require('mongoose');
 
 const FeedInfo = mongoose.model('FeedInfo', new mongoose.Schema({
